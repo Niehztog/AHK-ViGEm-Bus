@@ -1,7 +1,9 @@
 # AHK-ViGEm-Bus
 
-An AutoHotkey wrapper for [ViGEm](https://github.com/ViGEm/ViGEmBus/releases) 
+An AutoHotkey v2 wrapper for [ViGEm](https://github.com/ViGEm/ViGEmBus/releases) 
 For emulating virtual Xbox360 / DualShock 4 controllers
+
+Converted to work with AHK v2 in alpha state. Not throughly tested.
 
 ## Setup
 1. Install [ViGEm](https://github.com/ViGEm/ViGEmBus/releases)
